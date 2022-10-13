@@ -1,0 +1,7 @@
+﻿  Main.cpp
+D:\Visual Studio Projects\Ball Game\Main.cpp(49,27): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1699 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Ball Game.vcxproj -> D:\Visual Studio Projects\Ball Game\x64\Release\Ball Game.exe
